@@ -8,4 +8,4 @@ Data- <br/>
 3.Soil Moisture (Moisture sensor)<br/>
 4.Raining Condition (capacitive rain sensor)<br/>
 
-SPIFFS protocol has been used with ESP8266 where 4MB flash memory of ESP has been used to store the webpage
+SPIFFS protocol has been used with ESP8266 where 4MB flash memory of ESP is used to store the webpage
