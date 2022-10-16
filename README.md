@@ -10,4 +10,4 @@ Data- <br/>
 
 SPIFFS protocol has been used with ESP8266 where 4MB flash memory of ESP is used to store the webpage
 
-Be sure to organize your files in the same manner as shown on layput jpeg
+Be sure to organize your files in the same manner as shown on layput jpg
